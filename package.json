@@ -13,5 +13,9 @@
     "mocha": "^3.2.0",
     "sinon": "^2.1.0",
     "chai-as-promised": "^6.0.0"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/RickyAndi/if-false.git"
   }
 }
